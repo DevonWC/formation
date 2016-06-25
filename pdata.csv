@@ -1,223 +1,209 @@
 COUNTRY,VOTES,CODE
-Afghanistan,21.71,AFG
-Albania,13.40,ALB
-Algeria,227.80,DZA
-American Samoa,0.75,ASM
-Andorra,4.80,AND
-Angola,131.40,AGO
-Anguilla,0.18,AIA
-Antigua and Barbuda,1.24,ATG
-Argentina,536.20,ARG
-Armenia,10.88,ARM
-Aruba,2.52,ABW
-Australia,1483.00,AUS
-Austria,436.10,AUT
-Azerbaijan,77.91,AZE
-"Bahamas, The",8.65,BHM
-Bahrain,34.05,BHR
-Bangladesh,186.60,BGD
-Barbados,4.28,BRB
-Belarus,75.25,BLR
-Belgium,527.80,BEL
-Belize,1.67,BLZ
-Benin,9.24,BEN
-Bermuda,5.20,BMU
-Bhutan,2.09,BTN
-Bolivia,34.08,BOL
-Bosnia and Herzegovina,19.55,BIH
-Botswana,16.30,BWA
-Brazil,2244.00,BRA
-British Virgin Islands,1.10,VGB
-Brunei,17.43,BRN
-Bulgaria,55.08,BGR
-Burkina Faso,13.38,BFA
-Burma,65.29,MMR
-Burundi,3.04,BDI
-Cabo Verde,1.98,CPV
-Cambodia,16.90,KHM
-Cameroon,32.16,CMR
-Canada,1794.00,CAN
-Cayman Islands,2.25,CYM
-Central African Republic,1.73,CAF
-Chad,15.84,TCD
-Chile,264.10,CHL
-China,10360.00,CHN
-Colombia,400.10,COL
-Comoros,0.72,COM
-"Congo, Democratic Republic of the",32.67,COD
-"Congo, Republic of the",14.11,COG
-Cook Islands,0.18,COK
-Costa Rica,50.46,CRI
-Cote d'Ivoire,33.96,CIV
-Croatia,57.18,HRV
-Cuba,77.15,CUB
-Curacao,5.60,CUW
-Cyprus,21.34,CYP
-Czech Republic,205.60,CZE
-Denmark,347.20,DNK
-Djibouti,1.58,DJI
-Dominica,0.51,DMA
-Dominican Republic,64.05,DOM
-Ecuador,100.50,ECU
-Egypt,284.90,EGY
-El Salvador,25.14,SLV
-Equatorial Guinea,15.40,GNQ
-Eritrea,3.87,ERI
-Estonia,26.36,EST
-Ethiopia,49.86,ETH
-Falkland Islands (Islas Malvinas),0.16,FLK
-Faroe Islands,2.32,FRO
-Fiji,4.17,FJI
-Finland,276.30,FIN
-France,2902.00,FRA
-French Polynesia,7.15,PYF
-Gabon,20.68,GAB
-"Gambia, The",0.92,GMB
-Georgia,16.13,GEO
-Germany,3820.00,DEU
-Ghana,35.48,GHA
-Gibraltar,1.85,GIB
-Greece,246.40,GRC
-Greenland,2.16,GRL
-Grenada,0.84,GRD
-Guam,4.60,GUM
-Guatemala,58.30,GTM
-Guernsey,2.74,GGY
-Guinea-Bissau,1.04,GNB
-Guinea,6.77,GIN
-Guyana,3.14,GUY
-Haiti,8.92,HTI
-Honduras,19.37,HND
-Hong Kong,292.70,HKG
-Hungary,129.70,HUN
-Iceland,16.20,ISL
-India,2048.00,IND
-Indonesia,856.10,IDN
-Iran,402.70,IRN
-Iraq,232.20,IRQ
-Ireland,245.80,IRL
-Isle of Man,4.08,IMN
-Israel,305.00,ISR
-Italy,2129.00,ITA
-Jamaica,13.92,JAM
-Japan,4770.00,JPN
-Jersey,5.77,JEY
-Jordan,36.55,JOR
-Kazakhstan,225.60,KAZ
-Kenya,62.72,KEN
-Kiribati,0.16,KIR
-"Korea, North",28.00,KOR
-"Korea, South",1410.00,PRK
-Kosovo,5.99,KSV
-Kuwait,179.30,KWT
-Kyrgyzstan,7.65,KGZ
-Laos,11.71,LAO
-Latvia,32.82,LVA
-Lebanon,47.50,LBN
-Lesotho,2.46,LSO
-Liberia,2.07,LBR
-Libya,49.34,LBY
-Liechtenstein,5.11,LIE
-Lithuania,48.72,LTU
-Luxembourg,63.93,LUX
-Macau,51.68,MAC
-Macedonia,10.92,MKD
-Madagascar,11.19,MDG
-Malawi,4.41,MWI
-Malaysia,336.90,MYS
-Maldives,2.41,MDV
-Mali,12.04,MLI
-Malta,10.57,MLT
-Marshall Islands,0.18,MHL
-Mauritania,4.29,MRT
-Mauritius,12.72,MUS
-Mexico,1296.00,MEX
-"Micronesia, Federated States of",0.34,FSM
-Moldova,7.74,MDA
-Monaco,6.06,MCO
-Mongolia,11.73,MNG
-Montenegro,4.66,MNE
-Morocco,112.60,MAR
-Mozambique,16.59,MOZ
-Namibia,13.11,NAM
-Nepal,19.64,NPL
-Netherlands,880.40,NLD
-New Caledonia,11.10,NCL
-New Zealand,201.00,NZL
-Nicaragua,11.85,NIC
-Nigeria,594.30,NGA
-Niger,8.29,NER
-Niue,0.01,NIU
-Northern Mariana Islands,1.23,MNP
-Norway,511.60,NOR
-Oman,80.54,OMN
-Pakistan,237.50,PAK
-Palau,0.65,PLW
-Panama,44.69,PAN
-Papua New Guinea,16.10,PNG
-Paraguay,31.30,PRY
-Peru,208.20,PER
-Philippines,284.60,PHL
-Poland,552.20,POL
-Portugal,228.20,PRT
-Puerto Rico,93.52,PRI
-Qatar,212.00,QAT
-Romania,199.00,ROU
-Russia,2057.00,RUS
-Rwanda,8.00,RWA
-Saint Kitts and Nevis,0.81,KNA
-Saint Lucia,1.35,LCA
-Saint Martin,0.56,MAF
-Saint Pierre and Miquelon,0.22,SPM
-Saint Vincent and the Grenadines,0.75,VCT
-Samoa,0.83,WSM
-San Marino,1.86,SMR
-Sao Tome and Principe,0.36,STP
-Saudi Arabia,777.90,SAU
-Senegal,15.88,SEN
-Serbia,42.65,SRB
-Seychelles,1.47,SYC
-Sierra Leone,5.41,SLE
-Singapore,307.90,SGP
-Sint Maarten,304.10,SXM
-Slovakia,99.75,SVK
-Slovenia,49.93,SVN
-Solomon Islands,1.16,SLB
-Somalia,2.37,SOM
-South Africa,341.20,ZAF
-South Sudan,11.89,SSD
-Spain,1400.00,ESP
-Sri Lanka,71.57,LKA
-Sudan,70.03,SDN
-Suriname,5.27,SUR
-Swaziland,3.84,SWZ
-Sweden,559.10,SWE
-Switzerland,679.00,CHE
-Syria,64.70,SYR
-Taiwan,529.50,TWN
-Tajikistan,9.16,TJK
-Tanzania,36.62,TZA
-Thailand,373.80,THA
-Timor-Leste,4.51,TLS
-Togo,4.84,TGO
-Tonga,0.49,TON
-Trinidad and Tobago,29.63,TTO
-Tunisia,49.12,TUN
-Turkey,813.30,TUR
-Turkmenistan,43.50,TKM
-Tuvalu,0.04,TUV
-Uganda,26.09,UGA
-Ukraine,134.90,UKR
-United Arab Emirates,416.40,ARE
-United Kingdom,2848.00,GBR
-United States,17420.00,USA
-Uruguay,55.60,URY
-Uzbekistan,63.08,UZB
-Vanuatu,0.82,VUT
-Venezuela,209.20,VEN
-Vietnam,187.80,VNM
-Virgin Islands,5.08,VGB
-West Bank,6.64,WBG
-Yemen,45.45,YEM
-Zambia,25.61,ZMB
-Zimbabwe,13.74,ZWE
+Afghanistan,10,AF
+Albania,10,AL
+Algeria,11,DZ
+Andorra,13,AD
+Anguilla,7,AI
+Antigua and Barbuda,14,AG
+Argentina,90,AR
+Armenia,2,AM
+Aruba,101,AW
+Australia,7245,AU
+Austria,689,AT
+Azerbaijan,6,AZ
+Bahrain,65,BH
+Bangladesh,17,BD
+Barbados,31,BB
+Belarus,8,BY
+Belgium,1726,BE
+Belize,9,BZ
+Benin,2,BJ
+Bermuda,134,BM
+Bhutan,1,BT
+Bolivia,6,BO
+Bonaire/St Eustatius/Saba,1,BQ
+Bosnia and Herzegovina,8,BA
+Botswana,13,BW
+Brazil,162,BR
+British Antarctic Territory,2,BAT
+British Indian Ocean Territory,2,IO
+British Virgin Islands,36,VG
+Brunei,18,BN
+Bulgaria,185,BG
+Burkina Faso,1,BF
+Burma,21,MM
+Burundi,1,BI
+Cambodia,30,KH
+Canada,3227,CA
+Cape Verde,1,CV
+Cayman Islands,92,KY
+Central African Republic,1,CF
+Chile,67,CL
+China,270,CN
+Colombia,67,CO
+Congo,1,CG
+Congo (Democratic Republic),2,CD
+Costa Rica,22,CR
+Croatia,38,HR
+Cuba,1,CU
+Cyprus,595,CY
+Czech Republic,334,CZ
+Denmark,683,DK
+Djibouti,1,DJ
+Dominica,3,DM
+Dominican Republic,12,DO
+East Timor,4,TL
+Ecuador,12,EC
+Egypt,82,EG
+El Salvador,2,SV
+Estonia,34,EE
+Ethiopia,11,ET
+Falkland Islands,9,FK
+Fiji,10,FJ
+Finland,349,FI
+France,15266,FR
+French Guiana,6,GF
+French Polynesia,4,PF
+Gabon,7,GA
+Georgia,14,GE
+Germany,5712,DE
+Ghana,18,GH
+Gibraltar,3431,GI
+Greece,575,GR
+Grenada,7,GD
+Guadeloupe,4,GP
+Guatemala,2,GT
+Guernsey,241,GG
+Guyana,1,GY
+Honduras,6,HN
+Hong Kong,1478,HK
+Hungary,190,HU
+Iceland,81,IS
+India,216,IN
+Indonesia,75,ID
+Iran,12,IR
+Iraq,11,IQ
+Ireland,2477,IE
+Isle of Man,371,IM
+Israel,506,IL
+Italy,1989,IT
+Ivory Coast,3,CI
+Jamaica,16,JM
+Japan,562,JP
+Jersey,425,JE
+Jordan,43,JO
+Kazakhstan,8,KZ
+Kenya,104,KE
+Kosovo,9,XK
+Kuwait,40,KW
+Kyrgyzstan,1,KG
+Laos,7,LA
+Latvia,21,LV
+Lebanon,48,LB
+Lesotho,2,LS
+Liberia,1,LR
+Libya,2,LY
+Liechtenstein,1,LI
+Lithuania,50,LT
+Luxembourg,554,LU
+Macao,18,MO
+Macedonia,7,MK
+Madagascar,2,MG
+Malawi,13,MW
+Malaysia,183,MY
+Maldives,7,MV
+Malta,402,MT
+Martinique,5,MQ
+Mauritania,1,MR
+Mauritius,43,MU
+Mexico,120,MX
+Moldova,6,MD
+Monaco,68,MC
+Mongolia,2,MN
+Montenegro,4,ME
+Montserrat,12,MS
+Morocco,33,MA
+Mozambique,6,MZ
+Namibia,10,NA
+Nepal,9,NP
+Netherlands,2623,NL
+New Caledonia,1,NC
+New Zealand,2221,NZ
+Nicaragua,5,NI
+Nigeria,27,NG
+North Korea,13,KP
+Norway,493,NO
+Oman,59,OM
+Pakistan,74,PK
+Panama,9,PA
+Papua New Guinea,4,PG
+Paraguay,4,PY
+Peru,46,PE
+Philippines,68,PH
+Poland,214,PL
+Portugal,901,PT
+Qatar,229,QA
+Romania,121,RO
+Russia,86,RU
+Rwanda,10,RW
+Réunion,14,RE
+Saint-Barthélemy,2,BL
+San Marino,1,SM
+Saudi Arabia,109,SA
+Senegal,3,SN
+Serbia,18,RS
+Seychelles,4,SC
+Sierra Leone,7,SL
+Singapore,913,SG
+Slovakia,51,SK
+Slovenia,27,SI
+Somalia,2,SO
+South Africa,727,ZA
+South Georgia and the South Sandwich Islands,1,GS
+South Korea,102,KR
+South Sudan,3,SS
+Spain,9848,ES
+Sri Lanka,21,LK
+St Helena, Ascension and Tristan da Cunha,11,SH
+St Kitts and Nevis,2,KN
+St Lucia,8,LC
+St Martin,1,MF
+St Pierre & Miquelon,2,PM
+St Vincent,4,VC
+Sudan,6,SD
+Suriname,1,SR
+Swaziland,26,SZ
+Sweden,1067,SE
+Switzerland,1901,CH
+Syria,5,SY
+Taiwan,72,TW
+Tajikistan,1,TJ
+Tanzania,42,TZ
+Thailand,334,TH
+The Bahamas,14,BS
+The Gambia,6,GM
+The Occupied Palestinian Territories,4,PS
+Togo,3,TG
+Tonga,2,TO
+Trinidad and Tobago,43,TT
+Tunisia,11,TN
+Turkey,238,TR
+Turkmenistan,7,TM
+Turks and Caicos Islands,25,TC
+Tuvalu,13,TV
+Uganda,35,UG
+Ukraine,65,UA
+United Arab Emirates,1645,AE
+United Kingdom,365483,GB
+United States,8851,US
+Uruguay,57,UY
+Uzbekistan,28,UZ
+Vanuatu,24,VU
+Vatican City,3348,VA
+Venezuela,14,VE
+Vietnam,80,VN
+Wallis and Futuna,6,WF
+Western Sahara,1,EH
+Yemen,4,YE
+Zambia,17,ZM
+Zimbabwe,32,ZW
